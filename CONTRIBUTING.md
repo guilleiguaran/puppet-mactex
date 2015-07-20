@@ -1,4 +1,4 @@
-Thanks for contributing to Boxen! A couple of notes to help you out:
+Thanks for contributing to this module! A couple of notes to help you out:
 
 * We're conservative with version bumps, especially on services. We
   tend to keep things aligned with what we're personally using in
@@ -9,4 +9,4 @@ Thanks for contributing to Boxen! A couple of notes to help you out:
   Remember that a PR is the start of a conversation, not the end of one.
 
 :heart:,
-Boxen
+Guille
